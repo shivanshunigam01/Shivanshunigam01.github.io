@@ -1,8 +1,6 @@
 /* 
 
-Moonlight Template 
-
-https://templatemo.com/tm-512-moonlight
+Shivanshu nigam's portfolio
 
 */
 
@@ -330,9 +328,10 @@ nav a:hover::before {
 }
 
 .first-content .author-image img {
-	margin-top: 15px;
+	border-color: chartreuse;
+	margin-top: 5px;
 	border-radius: 30px;
-	max-width: 100%;
+	max-width: 200%;
 	overflow: hidden;
 	float: left;
 	margin-right: 35px;
