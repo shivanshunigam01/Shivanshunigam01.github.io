@@ -311,7 +311,12 @@ nav a:hover::before {
   background-image: url(../img/fourth_bg.jpg);
 }
 .slides .slide img {
-  width: 100%;
+	display:flex;
+	margin-left: auto;
+	margin-right: 0px;
+	margin-top: 102px;
+	width: 100%;
+	border: chartreuse;
 }
 
 
